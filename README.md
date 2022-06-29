@@ -3,10 +3,10 @@
 ## 개요
 
 + 강좌명: 컴퓨터언어학
-+ 강좌번호: 108.413A (001&002)
++ 강좌번호: 108.413A (001 & 002)
 + 교수자: 박수지 (mam3b@snu.ac.kr, sut.i.palatalised@gmail.com)
-+ 교재: Juravsky & Martin, [Speech and Language Processing 3rd edition](https://web.stanford.edu/~jurafsky/slp3/)
-+ 선수과목: 언어와 컴퓨터(2021년) https://github.com/suzisuti/lecture/tree/master/2021/LC
++ 교재: Jurafsky & Martin, *[Speech and Language Processing 3rd edition](https://web.stanford.edu/~jurafsky/slp3/)*
++ 선수과목: [언어와 컴퓨터(2021년)](https://github.com/suzisuti/lecture/tree/master/2021/LC)
 
 ## 목표
 
